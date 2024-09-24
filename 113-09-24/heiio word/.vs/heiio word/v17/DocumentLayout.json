@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\heiio word\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61DB3-57CD-4391-9391-11AF7F575E3F}|heiio word\\heiio word.csproj|c:\\users\\shu\\desktop\\113_1_c#\\113-09-24\\heiio word\\heiio word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEA61DB3-57CD-4391-9391-11AF7F575E3F}|heiio word\\heiio word.csproj|solutionrelative:heiio word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEA61DB3-57CD-4391-9391-11AF7F575E3F}|heiio word\\heiio word.csproj|c:\\users\\shu\\desktop\\113_1_c#\\113-09-24\\heiio word\\heiio word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CEA61DB3-57CD-4391-9391-11AF7F575E3F}|heiio word\\heiio word.csproj|solutionrelative:heiio word\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\heiio word\\heiio word\\Form1.cs",
+              "RelativeDocumentMoniker": "heiio word\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\heiio word\\heiio word\\Form1.cs",
+              "RelativeToolTip": "heiio word\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:40:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\heiio word\\heiio word\\Form1.cs",
+              "RelativeDocumentMoniker": "heiio word\\Form1.cs",
+              "ToolTip": "C:\\Users\\shu\\Desktop\\113_1_C#\\113-09-24\\heiio word\\heiio word\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "heiio word\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T09:09:48.431Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\bin\Debug\net8.0-windows\heiio word.exe
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\bin\Debug\net8.0-windows\heiio word.deps.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\bin\Debug\net8.0-windows\heiio word.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\bin\Debug\net8.0-windows\heiio word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\bin\Debug\net8.0-windows\heiio word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio_word.Form1.resources
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\refint\heiio word.dll
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.pdb
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\heiio word.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C#\113-09-24\heiio word\heiio word\obj\Debug\net8.0-windows\ref\heiio word.dll
