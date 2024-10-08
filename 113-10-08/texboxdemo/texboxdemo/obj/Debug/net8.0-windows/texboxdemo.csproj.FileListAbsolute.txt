@@ -1,0 +1,17 @@
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\bin\Debug\net8.0-windows\texboxdemo.exe
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\bin\Debug\net8.0-windows\texboxdemo.deps.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\bin\Debug\net8.0-windows\texboxdemo.runtimeconfig.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\bin\Debug\net8.0-windows\texboxdemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\bin\Debug\net8.0-windows\texboxdemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.Form1.resources
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.csproj.GenerateResource.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.AssemblyInfoInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.AssemblyInfo.cs
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.csproj.CoreCompileInputs.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.sourcelink.json
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\refint\texboxdemo.dll
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.pdb
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\texboxdemo.genruntimeconfig.cache
+C:\Users\shu\Desktop\113_1_C_Sharp\113-10-08\texboxdemo\texboxdemo\obj\Debug\net8.0-windows\ref\texboxdemo.dll
