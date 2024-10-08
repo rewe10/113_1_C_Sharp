@@ -46,7 +46,7 @@
             // 梅花2
             // 
             梅花2.Image = Properties.Resources._2_Clubs;
-            梅花2.Location = new Point(67, 111);
+            梅花2.Location = new Point(69, 111);
             梅花2.Name = "梅花2";
             梅花2.Size = new Size(100, 147);
             梅花2.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -101,7 +101,7 @@
             結束.Name = "結束";
             結束.Size = new Size(292, 73);
             結束.TabIndex = 6;
-            結束.Text = "button2";
+            結束.Text = "Exit";
             結束.UseVisualStyleBackColor = true;
             結束.Click += 結束_Click;
             // 

@@ -19,7 +19,7 @@ namespace homework1
 
         private void µ²§ô_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
         private void µÙ§Î2_Click(object sender, EventArgs e)
