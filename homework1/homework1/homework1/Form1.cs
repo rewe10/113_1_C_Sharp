@@ -14,6 +14,7 @@ namespace homework1
 
         private void 梅花2_Click(object sender, EventArgs e)
         {
+            labename.Text = "梅花2";
 
         }
 
@@ -24,7 +25,22 @@ namespace homework1
 
         private void 菱形2_Click(object sender, EventArgs e)
         {
+            labename.Text = "菱形2";
+        }
 
+        private void HeartsTwo_Click(object sender, EventArgs e)
+        {
+            labename.Text = "紅心2";
+        }
+
+        private void SpadesTwo_Click(object sender, EventArgs e)
+        {
+            labename.Text = "黑桃2";
+        }
+
+        private void ClubsThree_Click(object sender, EventArgs e)
+        {
+            labename.Text = "梅花3";
         }
     }
 }
