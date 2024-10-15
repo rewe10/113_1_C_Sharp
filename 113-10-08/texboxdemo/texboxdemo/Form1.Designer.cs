@@ -34,7 +34,7 @@
             btnconfirm = new Button();
             txtfirstname = new TextBox();
             txtlastname = new TextBox();
-            label4 = new Label();
+            lebshow = new Label();
             SuspendLayout();
             // 
             // label1
@@ -75,7 +75,7 @@
             btnconfirm.Name = "btnconfirm";
             btnconfirm.Size = new Size(188, 45);
             btnconfirm.TabIndex = 3;
-            btnconfirm.Text = "button1";
+            btnconfirm.Text = "CONFIRM";
             btnconfirm.UseVisualStyleBackColor = true;
             btnconfirm.Click += btnconfirm_Click;
             // 
@@ -95,24 +95,23 @@
             txtlastname.Size = new Size(348, 48);
             txtlastname.TabIndex = 5;
             // 
-            // label4
+            // lebshow
             // 
-            label4.BorderStyle = BorderStyle.Fixed3D;
-            label4.Font = new Font("Microsoft JhengHei UI", 24F);
-            label4.Location = new Point(304, 297);
-            label4.Name = "label4";
-            label4.Size = new Size(348, 41);
-            label4.TabIndex = 6;
-            label4.Text = "label4";
-            label4.TextAlign = ContentAlignment.TopCenter;
-            label4.Click += label4_Click;
+            lebshow.BorderStyle = BorderStyle.Fixed3D;
+            lebshow.Font = new Font("Microsoft JhengHei UI", 24F);
+            lebshow.Location = new Point(304, 297);
+            lebshow.Name = "lebshow";
+            lebshow.Size = new Size(348, 41);
+            lebshow.TabIndex = 6;
+            lebshow.TextAlign = ContentAlignment.TopCenter;
+            lebshow.Click += label4_Click;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(label4);
+            Controls.Add(lebshow);
             Controls.Add(txtlastname);
             Controls.Add(txtfirstname);
             Controls.Add(btnconfirm);
@@ -133,6 +132,6 @@
         private Button btnconfirm;
         private TextBox txtfirstname;
         private TextBox txtlastname;
-        private Label label4;
+        private Label lebshow;
     }
 }
