@@ -17,7 +17,7 @@ namespace Tutorial4
             liters = double.Parse(txbLiter.Text);
             average = kms / liters;
 
-            lblShow.Text = average.ToString("f2");
+            lblShow.Text = average.ToString("n2");
         }
 
         private void Btnexit_Click(object sender, EventArgs e)
