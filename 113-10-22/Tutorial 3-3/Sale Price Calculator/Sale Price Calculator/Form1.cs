@@ -28,7 +28,7 @@ namespace Sale_Price_Calculator
             discountPercentage=decimal.Parse(discountPercentageTextBox.Text);
             salePrice = originalPrice - (originalPrice * discountPercentage / 100);
 
-            salePriceLable.Text=salePrice.ToString("C");
+            salePriceLa ble.Text=salePrice.ToString("C");
        
                 originalPriceTextBox.Text = "";
                 discountPercentageTextBox.Text = "";

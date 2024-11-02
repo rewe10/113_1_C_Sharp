@@ -31,3 +31,10 @@ C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\
 C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.CoreCompileInputs.cache
 C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
 C:\Users\shu\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.AssemblyReference.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Form1.resources
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale_Price_Calculator.Properties.Resources.resources
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.GenerateResource.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.csproj.CoreCompileInputs.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.exe
+C:\Users\hykao\Desktop\113_1_C_Sharp\113-10-22\Tutorial 3-3\Sale Price Calculator\Sale Price Calculator\obj\x86\Debug\Sale Price Calculator.pdb
