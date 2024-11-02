@@ -2,10 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\bin",
-    "\\bin\\Debug",
-    "\\bin\\Debug\\net8.0-windows",
-    "\\obj"
+    "\\bin\\Debug\\net8.0-windows"
   ],
-  "SelectedNode": "\\bin\\Debug\\net8.0-windows",
+  "SelectedNode": "\\homework2-1.csproj.user",
   "PreviewInSolutionExplorer": false
 }
