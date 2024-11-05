@@ -10,14 +10,14 @@ namespace homework2_2
         private void butCalculate_Click(object sender, EventArgs e)
         {
             decimal okane;
-            int A;
+            int A=0;
             okane = decimal.Parse(texIntput.Text);
 
             if (okane <= 100)
             {
                 A = 1;
             }
-            else if (okane >= 101 || okane <= 500)
+            else if(okane >= 101 || okane <= 500)
             {
                 A = 5;
             }
@@ -29,11 +29,11 @@ namespace homework2_2
             {
                 A = 15;
             }
-            else if (okane > 2001) ;
+            else if(okane>=2001)
             {
                 A = 20;
             }
-            labOutput.Text = A.ToString("c");
+            labOutput.Text = A.ToString();
         }
 
         private void butClear_Click(object sender, EventArgs e)
