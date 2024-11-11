@@ -1,0 +1,17 @@
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\bin\Debug\net8.0-windows\cyukanrensyu3.exe
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\bin\Debug\net8.0-windows\cyukanrensyu3.deps.json
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\bin\Debug\net8.0-windows\cyukanrensyu3.runtimeconfig.json
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\bin\Debug\net8.0-windows\cyukanrensyu3.dll
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\bin\Debug\net8.0-windows\cyukanrensyu3.pdb
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.Form1.resources
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.csproj.GenerateResource.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.AssemblyInfoInputs.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.AssemblyInfo.cs
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.csproj.CoreCompileInputs.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.sourcelink.json
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.dll
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\refint\cyukanrensyu3.dll
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.pdb
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\cyukanrensyu3.genruntimeconfig.cache
+C:\Users\hykao\Desktop\113_1_C_Sharp\期中練習\cyukanrensyu3\cyukanrensyu3\obj\Debug\net8.0-windows\ref\cyukanrensyu3.dll
