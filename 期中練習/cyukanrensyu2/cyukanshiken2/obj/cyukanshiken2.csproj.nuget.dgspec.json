@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanshiken2\\cyukanshiken2\\cyukanshiken2.csproj": {}
+    "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanrensyu2\\cyukanshiken2\\cyukanshiken2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanshiken2\\cyukanshiken2\\cyukanshiken2.csproj": {
+    "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanrensyu2\\cyukanshiken2\\cyukanshiken2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanshiken2\\cyukanshiken2\\cyukanshiken2.csproj",
+        "projectUniqueName": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanrensyu2\\cyukanshiken2\\cyukanshiken2.csproj",
         "projectName": "cyukanshiken2",
-        "projectPath": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanshiken2\\cyukanshiken2\\cyukanshiken2.csproj",
+        "projectPath": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanrensyu2\\cyukanshiken2\\cyukanshiken2.csproj",
         "packagesPath": "C:\\Users\\hykao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanshiken2\\cyukanshiken2\\obj\\",
+        "outputPath": "C:\\Users\\hykao\\Desktop\\113_1_C_Sharp\\期中練習\\cyukanrensyu2\\cyukanshiken2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vis3\\NuGetPackages"
